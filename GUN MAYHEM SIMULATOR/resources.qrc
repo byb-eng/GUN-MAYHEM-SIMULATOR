@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/map_user_clean.png</file>
+        <file>assets/platform_mark_reference.png</file>
+        <file>assets/player_blue.png</file>
+        <file>assets/player_red.png</file>
+        <file>assets/player_model_preview.jpg</file>
+        <file>assets/weapon_silver.png</file>
+        <file>assets/bomb_crate.png</file>
+        <file>assets/hit_effect.png</file>
+        <file>assets/bullet_tracer.png</file>
+        <file>assets/muzzle_flash.png</file>
+        <file>assets/background_music.m4a</file>
+        <file>assets/射击声.m4a</file>
+        <file>assets/爆炸声.m4a</file>
+        <file>weights.txt</file>
+        <file>assets/we_there.png</file>
+    </qresource>
+</RCC>
